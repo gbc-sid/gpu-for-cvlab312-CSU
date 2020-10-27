@@ -24,7 +24,8 @@
   - [Server4](#Server4)
 - [简易教程](#简易教程)
   - [LXD Container](/lxd.md)
-  - [创建一个容器](/create.md)
+  - [创建容器](/create.md)
+  - [Q&A 遇到过的问题](/question.md)
 
 
 <br/>
