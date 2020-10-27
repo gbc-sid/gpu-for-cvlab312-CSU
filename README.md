@@ -18,11 +18,13 @@
 ## Content
 - [服务器系统介绍](#服务器系统介绍)
 - [服务器当前状态](#服务器当前状态)
- - [Server1](#Server1)
- - [Server2](#Server2)
- - [Server3](#Server3)
- - [Server4](#Server4)
+  - [Server1](#Server1)
+  - [Server2](#Server2)
+  - [Server3](#Server3)
+  - [Server4](#Server4)
 - [简易教程](#简易教程)
+  - [LXD Container](#lxd.md)
+  - [创建一个容器](#create.md)
 
 
 <br/>
@@ -97,9 +99,8 @@
 <br/>
 <br/>
 
-### 简易教程
 
-*Host(宿主机)上相关操作需登录宿主机，如有必要请与管理员联系，Host上文件删除修改需谨慎*
-*Host进行reboot操作后请等待一段时间*
 
-#### LXD Container
+
+
+
