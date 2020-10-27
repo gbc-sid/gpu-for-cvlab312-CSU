@@ -50,14 +50,14 @@
 ### 服务器当前状态
 #### Server1
 
-| name | Account | Login IP | Port | Login Name | Password | Ipv4 address |  
-| :----: | :----: | :------: | :---: | :------: | :---: | :--------: |
-|   | base | 202.197.66.3 | 11100 | root | 111 | 10.119.6.151:22 |
-| Yimin Tang | tym | 202.197.66.3 | 11110 | root | 111 | 10.119.6.88:22 |
-| Fuchang Han | hfc | 202.197.66.3 | 11120 | root | 111 | 10.119.6.155:22 |
-| Siming Yuan | ysm | 202.197.66.3 | 11130 | root | 111 | 10.119.6.62:22 |
-| Renzhong Wu | wrz | 202.197.66.3 | 11140 | root | 111 | 10.119.6.55:22 |
-| Public | gongyong | 202.197.66.3 | 11150 | root | 111 | 10.119.6.38:22 |
+| name | Account | Port | Login Name | Password | Ipv4 address |  
+| :----: | :------: | :---: | :------: | :---: | :--------: |
+|   | base | 11100 | root | 111 | 10.119.6.151:22 |
+| Yimin Tang | tym | 11110 | root | 111 | 10.119.6.88:22 |
+| Fuchang Han | hfc | 11120 | root | 111 | 10.119.6.155:22 |
+| Siming Yuan | ysm | 11130 | root | 111 | 10.119.6.62:22 |
+| Renzhong Wu | wrz | 11140 | root | 111 | 10.119.6.55:22 |
+| Public | gongyong | 11150 | root | 111 | 10.119.6.38:22 |
 
 #### Server2
 
