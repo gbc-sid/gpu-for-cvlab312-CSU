@@ -48,6 +48,9 @@
 <br/>
 
 ### 服务器当前状态
+
+#### 获取服务器Ip请联系管理员
+
 #### Server1
 
 | name | Account | Port | Login Name | Password | Ipv4 address |  
