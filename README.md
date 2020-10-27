@@ -3,10 +3,14 @@
 # 中南大学民主楼312实验室GPU服务器使用教程
 <br/>
 <br/>
-administrator: 
-**Bocong Gao 高博聪** 
-**Shuanhu Di 邸栓虎**  
-**Yimin Tang 唐一民** 
+administrator:   
+
+**Bocong Gao 高博聪**    
+
+**Shuanhu Di 邸栓虎**    
+
+**Yimin Tang 唐一民**   
+
 <br/>
 <br/>
 
