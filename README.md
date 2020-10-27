@@ -8,7 +8,7 @@
 
 **Bocong Gao 高博聪**    
 
-**Shuanhu Di 邸栓虎**    
+**Shuanhu Di 邸拴虎**    
 
 **Yimin Tang 唐一民**   
 
