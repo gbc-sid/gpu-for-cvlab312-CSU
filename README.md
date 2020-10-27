@@ -52,7 +52,7 @@
 
 | name | Account | Port | Login Name | Password | Ipv4 address |  
 | :----: | :----: | :------: | :---: | :------: | :---: | :--------: |
-|   | base | 11100 | root | 111 | 10.119.6.151:22 |
+|            | base | 11100 | root | 111 | 10.119.6.151:22 |
 | Yimin Tang | tym | 11110 | root | 111 | 10.119.6.88:22 |
 | Fuchang Han | hfc | 11120 | root | 111 | 10.119.6.155:22 |
 | Siming Yuan | ysm | 11130 | root | 111 | 10.119.6.62:22 |
