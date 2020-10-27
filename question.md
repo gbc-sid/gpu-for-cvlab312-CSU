@@ -40,10 +40,10 @@
 
 - **命令行禁用linux自动更新内核**
 
-    `genee@reserva:~$ cat /etc/apt/apt.conf.d/10periodic`
-    `APT::Periodic::Update-Package-Lists` "1"
-    `APT::Periodic::Download-Upgradeable-Packages` "0"
-    `APT::Periodic::AutocleanInterval` "0"
+    `genee@reserva:~$ cat /etc/apt/apt.conf.d/10periodic`  
+    `APT::Periodic::Update-Package-Lists` "1"  
+    `APT::Periodic::Download-Upgradeable-Packages` "0"  
+    `APT::Periodic::AutocleanInterval` "0"  
 - **Ubuntu Linux内核版本升级或降级到指定版本（基于ubuntu 18.04示例）**
 
     https://blog.csdn.net/weixin_42915431/article/details/106614841?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-15.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-15.nonecase
