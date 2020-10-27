@@ -1,6 +1,12 @@
 # gpu-for-cvlab312-CSU
  Introduction and tutorial of GPU server configuration in 312 Lab in Central South University
 # 中南大学民主楼312实验室GPU服务器使用教程
+<br/>
+<br/>
+administrator: **Bocong Gao 高博聪** **Shuanhu Di 邸栓虎**  **Yimin Tang 唐一民** 
+<br/>
+<br/>
+
 ## 目录
 - [服务器系统介绍](#服务器系统介绍)
 - [服务器当前部署](#服务器当前部署)
