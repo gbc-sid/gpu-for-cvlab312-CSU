@@ -12,7 +12,7 @@ reference:
 
 
 - 安装  
-'snap install lxd'  
+' snap install lxd '  
 - 初始化(具体配置参考文档)  
 'lxd init'  
 - 创建容器 
