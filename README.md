@@ -23,8 +23,8 @@
   - [Server3](#Server3)
   - [Server4](#Server4)
 - [简易教程](#简易教程)
-  - [LXD Container](#/lxd.md)
-  - [创建一个容器](#/create.md)
+  - [LXD Container](/lxd.md)
+  - [创建一个容器](/create.md)
 
 
 <br/>
