@@ -48,6 +48,10 @@
 
     https://blog.csdn.net/weixin_42915431/article/details/106614841?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-15.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-15.nonecase
 
+- **如果nvidia-smi只显示一部分卡**
+
+    稍等一下，可能是GPU未挂载全
+
 
 
 
