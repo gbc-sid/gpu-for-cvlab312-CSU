@@ -58,7 +58,7 @@
     `lxc storage list`  
     `lxc storage create pool_name zfs size=xxGB`  
 
-    将pool改为pool_name
+    将pool改为pool_name  
     `lxc profile copy default lxd`  
     `lxc profile list`  
     `lxc profile edit lxd`  
