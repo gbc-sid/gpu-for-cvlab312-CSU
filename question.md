@@ -52,6 +52,23 @@
 
     稍等一下，可能是GPU未挂载全
 
+- **容器存储池不够，创建新的存储池**
+
+    查看存储池并创建新池  
+    `lxc storage list`  
+    `lxc storage create pool_name zfs size=xxGB`  
+
+    将pool改为pool_name
+    `lxc profile copy default lxd`  
+    `lxc profile list`  
+    `lxc profile edit lxd`  
+
+    相关网页：
+    https://openwares.net/2019/08/08/lxd_zfs_storagepool/
+    https://openwares.net/2019/08/13/lxd-change-storage-backend/
+
+
+
 
 
 
