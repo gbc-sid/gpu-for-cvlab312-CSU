@@ -64,7 +64,7 @@
     `lxc profile edit lxd`  
 
     相关网页：
-    https://openwares.net/2019/08/08/lxd_zfs_storagepool/
+    https://openwares.net/2019/08/08/lxd_zfs_storagepool/  
     https://openwares.net/2019/08/13/lxd-change-storage-backend/
 
 
